@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mounika Deshetti
 
-<!--
-**mounikadeshetti/mounikadeshetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSc Data Science Student at Vageshwari Women's Degree college, Karimnagar.
 
-Here are some ideas to get you started:
+## My Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to become a **Python Backend Developer with Gen AI skills**
+
+## What I' m  Learning
+
+- Python
+- SQL and MySQL
+- Backend development
+- Generative AI
+
+## Currently Working on
+
+- Building my python foundations
+- Creating small projects to practice 
+
+## Let's connect
+I share my learning journey on Instagram
+- Instagram @-hercodeverse
+
