@@ -20,5 +20,5 @@ I want to become a **Python Backend Developer with Gen AI skills**
 
 ## Let's connect
 I share my learning journey on Instagram
-- Instagram @-hercodeverse
+- Instagram account https://www.instagram.com/_hercodeverse_/
 
